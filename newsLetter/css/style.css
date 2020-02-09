@@ -1,0 +1,62 @@
+.tableau table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-weight: bold;
+    margin: auto;
+    width: 50%;
+}
+
+
+
+
+
+
+ .tableau td {
+    border: 1px solid black;
+    font-size:80%;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+.tableau, .espace1{
+    height: 150px;
+}
+
+.tableau, .espace7, .espace8{
+    height: 50px;
+}
+
+
+
+.tableau, .espace10{
+    height: 200px;
+}
+.espace9{
+    color: red;
+    padding-bottom: 200px;
+    font-size: 1.5em;
+}
+
+.tableau, .espace12{
+    height: 20px;
+}
+
+.tableau, .espace13{
+    height: 10px;
+}
+
+
+
+/* thead, .espace1{
+    width: 50%;
+    height: 100px;
+}
+
+tbody, .espace{
+    
+}
+
+tbody, .espace7{
+    display: block;
+}    */

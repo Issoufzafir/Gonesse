@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border-collapse: collapse;
+    border: black 1px solid;
+    margin: auto;
+}
+
+.lien{
+    font-size: 12px;
+    background-color: lightslategrey;
+    
+}
+.lien a{
+    text-decoration: none;
+    color: goldenrod;
+}
+
+
+
+.REVE{
+    font-size: 2em;
+    
+    text-align: center;
+    
+}
+
+.REVE p{
+    font-family: 'Smythe';
+    text-decoration: overline underline;
+    font-size: 2em;
+    line-height: 5px;
+    
+}
+
+.texte{
+    text-align: center;
+}
+
+.texte strong{
+    line-height: 30px;
+}
+
+.visuel{
+    font-size: 1.8em;
+    text-align: center;
+}
+.acheter{
+    text-align: center;
+    
+}
+
+.acheter a{
+    
+    text-decoration: none;
+    font-size: 2em;
+    color: gold;
+    font-family: 'Smythe';
+    line-height: 100px;
+}
+.social{
+    text-align: center;
+    color: #fff;
+    height: 20px;
+    background-color: black;
+}
+
+.social i{
+    padding-left: 10px;
+    color: #fff;
+}
+
+.ps4{
+    height: 100px;
+    background: goldenrod;
+    text-align: center;
+    letter-spacing: 5px;
+    
+    
+    
+}
+
+.ps4 a{
+    text-decoration: none;
+    color: black;
+}
+
+.finish{
+    height: 150px;
+    background-color: goldenrod;
+    text-align: justify;
+    padding-left: 10px;
+    position: relative;
+    bottom: 60px;
+    z-index: 10;
+}
+.pegi{
+    background-color: goldenrod;
+}
+
+.pegi img{
+    z-index: 20;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: -80%;
+    
+    
+
+}
+
+.video{
+    text-align: center;
+    padding-top: 5px;
+}
+
+tbody{
+    background-color: lightslategrey;
+}
+thead{
+    background-color: lightslategrey;
+}
+
+.ancre a{
+        margin: 8px;
+        padding: 5px 10px;
+        border-radius: 15px;
+        background: #2c3e50;
+        color: goldenrod;
+        text-decoration: none;
+        font-size: 20px;
+        box-shadow: 0px 0px 10px 3px black;
+}
+.ancre a:hover{
+    box-shadow: none;
+    transition-duration: 0.5s;
+    text-shadow: 1px 5px 10px grey;
+}
+

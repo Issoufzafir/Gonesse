@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+
+.parallax {
+    
+    background-image: url("../img/hitek_a36b2e7f4e6ad6812cf4db354f9c293b_1540892983.jpeg");
+  
+    
+    height: 4000px;
+  
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+
+
+.green{
+      background: linear-gradient(to left, greenyellow, lightblue);
+      width: 100%;
+      height: 300px;
+      position: absolute;
+      top: 500px;
+      
+  }
+
+.blue{
+    background: linear-gradient(to left, lightblue, greenyellow);
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 1500px;
+    
+}
+
+.gold{
+    background: linear-gradient(to left, gold, violet);
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 2500px;
+    
+}
+
+.violet{
+    background: linear-gradient(to left, violet, gold);
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 3500px;
+    
+}
+
